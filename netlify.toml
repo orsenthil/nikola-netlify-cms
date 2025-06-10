@@ -2,3 +2,4 @@
   base    = ""
   publish = "output"
   command = "nikola build"
+  environment = { PYTHON_VERSION: "3.11" }
